@@ -10,9 +10,10 @@ quick_parser.py (Simple Version)
 Lightweight script that prints results directly to console. Just edit the filename in the script and run:
 
 bash
-python quick_parser.py
+**python quick_parser.py**
 
 Complete script with CSV export functionality and detailed output. Run it with:
 
 bash
-python trello_parser.py trello_export.json
+**python trello_parser.py trello_export.json
+**
